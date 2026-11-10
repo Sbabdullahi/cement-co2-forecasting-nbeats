@@ -4,11 +4,11 @@ title: "Cement emission forecasting under data scarcity and heterogeneity"
 version: 1.0.0
 date-released: 2026-11-08
 license: MIT
-repository-code: "https://github.com/<your-username>/cement-co2-forecasting-nbeats"
+repository-code: "https://github.com/Sbabdullahi/cement-co2-forecasting-nbeats"
 authors:
   - family-names: Abdullahi
     given-names: Sunusi Bala
-    affiliation: "Department of Information System Engineering, Sakarya University"
+    #affiliation: "Department of Information System Engineering, Sakarya University"
     # orcid: "https://orcid.org/0000-0000-0000-0000"
 keywords:
   - cement process emissions
