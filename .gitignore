@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+data/
+artefact/
+selftest_out/
+quick_run/
+*.pt
+.DS_Store

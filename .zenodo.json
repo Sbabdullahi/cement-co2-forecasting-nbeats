@@ -1,0 +1,16 @@
+{
+  "title": "Cement emission forecasting under data scarcity and heterogeneity (code and results)",
+  "upload_type": "software",
+  "description": "Code, automated leakage tests and results for the paper 'Neural Basis Expansion for Cement Emission Forecasting Under Data Scarcity and Heterogeneity'. Includes a leakage-controlled forecasting framework for national cement process CO2 emissions built on neural basis expansion (N-BEATS), twelve comparison models, provenance-stratified conformal prediction intervals, a deployable forecaster with a model card, and the outputs of the run reported in the paper. The GCP-CEM input data (Andrew, Zenodo, doi:10.5281/zenodo.20397304) are downloaded by a script and not redistributed.",
+  "creators": [
+    {
+      "name": "Abdullahi, Sunusi Bala",
+      "affiliation": "Department of Information System Engineering, Sakarya University"
+    }
+  ],
+  "license": "MIT",
+  "keywords": ["cement process emissions", "emission forecasting", "neural basis expansion", "N-BEATS", "data scarcity", "conformal prediction"],
+  "related_identifiers": [
+    {"identifier": "10.5281/zenodo.20397304", "relation": "requires", "scheme": "doi", "resource_type": "dataset"}
+  ]
+}
